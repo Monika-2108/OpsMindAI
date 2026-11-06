@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+groq
+python-dotenv
+hindsight-client
+sqlalchemy
